@@ -73,6 +73,7 @@ res = 1
 output (a=5, b=4, c=3, isScalene=1) at p2final.c:22
 22    if(isScalene)
 (gdb) n
+
 24      printf("The triangle with sides %d, %d and %d is scalene\n", a, b, c);
 (gdb) 
 The triangle with sides 5, 4 and 3 is scalene
