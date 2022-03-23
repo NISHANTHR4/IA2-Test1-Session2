@@ -7,7 +7,7 @@ void input(float *base, float *heigth)
 void find_area(float base,float heigth,float *area)
 {
 *area = 0.5*base*heigth;
-  
+
 }
 void output(float base,float heigth,float area)
 {
